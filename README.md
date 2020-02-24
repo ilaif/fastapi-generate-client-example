@@ -12,7 +12,7 @@ This repository shows how we can easily auto-generate FastAPI clients via the Op
 - Auto-generate a client using the server's OpenAPI schema and pip install it as `my_server_client` package:
   `./client/scripts/install_server_client.sh`
 
-### Running the example
+### Running
 
 - Run the server:
   `python -m server.main`
